@@ -1,14 +1,10 @@
-# CS50P - Introduction to Programming with Python
+# CS50P - Learning Journal
 
-## Week 3: Exceptions
-- calculator.py — Calculator with full error handling
-- pressureConvert.py — Chemical pressure unit converter (atm, bar, Pa)
-- sensor_validator.py — Industrial sensor monitor with validation
+Personal projects built while learning Python through Harvard's CS50P course — 
+applying each week's concepts (exceptions, libraries, unit testing...) to original, 
+chemical-engineering-themed programs.
 
-## What I learned
-- try/except/else/raise
-- Custom error messages
-- Input validation
+## Weeks
 
-## Stack
-Python 3.12
+- [Week 3: Exceptions](week3-exceptions/README.md)
+- [Week 4: Libraries](week4-libraries/README.md)
